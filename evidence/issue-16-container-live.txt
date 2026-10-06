@@ -1,0 +1,7 @@
+Trusted Publisher container live acceptance
+Source work item: TsinjoOps/agent-workflow-lab#16
+Runtime source revision: 60a096027d131105b9da596862c43df3607fa641
+Runtime image ID: sha256:69cf2fb6e5f4737b367a5d5afdab59e3fa8ca9de1868fcbac49e2c534c1710df
+Base SHA: 8cf8de815a17626d86502695c175fe7d8a8cd699
+Credential model: short-lived scoped token only; GitHub App private key remains host-only
+Data classification: synthetic

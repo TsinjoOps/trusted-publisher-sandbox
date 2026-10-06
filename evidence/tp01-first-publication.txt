@@ -1,0 +1,5 @@
+Trusted Publisher TP-01 live sandbox candidate
+Source work item: TsinjoOps/agent-workflow-lab#13
+Base SHA: 8cf8de815a17626d86502695c175fe7d8a8cd699
+Intended effect: publication branch plus Draft PR only
+Data classification: synthetic

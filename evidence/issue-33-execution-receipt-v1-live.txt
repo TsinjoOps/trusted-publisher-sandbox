@@ -1,0 +1,17 @@
+TsinjoOps Trusted Publisher synthetic candidate
+
+Purpose:
+Execution Receipt v1 live acceptance.
+
+This file represents producer output only.
+Trusted runtime provenance is intentionally NOT embedded in this candidate.
+
+Publication target:
+TsinjoOps/trusted-publisher-sandbox
+
+Expected behavior:
+- exact candidate preserved;
+- publication branch only;
+- Draft PR only;
+- runtime provenance recorded by Execution Receipt v1;
+- no merge or deploy authorization.

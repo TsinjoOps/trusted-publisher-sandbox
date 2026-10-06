@@ -1,0 +1,9 @@
+Trusted Publisher Host Launcher live acceptance
+Source work item: TsinjoOps/agent-workflow-lab#28
+Launcher source revision: ea9d96ec07875b680cf3f54441390439782b5b10
+Runtime image ID: sha256:cbdecb1c44f7c83f872c73590edaa3205329a85c5a0410a53b4c58953dac76b0
+Base SHA: 8cf8de815a17626d86502695c175fe7d8a8cd699
+Credential model: host-only GitHub App key -> ephemeral exact-repository broker lease
+Durable state: SQLite host-side idempotency and audit
+Container model: non-root, read-only filesystem, noexec tmpfs, no Docker socket
+Data classification: synthetic
